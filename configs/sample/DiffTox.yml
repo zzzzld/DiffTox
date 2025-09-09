@@ -1,0 +1,9 @@
+
+model:
+  checkpoint: ckpt/DiffTox.pt
+
+sample:
+  seed: 2025
+  batch_size: 16
+  num_mols: 1000
+  save_traj_prob: 0.02
