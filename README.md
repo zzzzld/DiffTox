@@ -1,9 +1,6 @@
 # DiffTox
 The code for "Equivariant Diffusion-Based Molecular Generation for Kidney-Toxicity-Constrained Design"
 
-# Framework
-<img width="800" alt="DiffTox Framework" src="https://github.com/user-attachments/assets/8aa4c192-3477-4f2e-b4f7-eee1c13cc3a8" />
-
 # Installation
 ## Tested environment
 - python == 3.8.20  
